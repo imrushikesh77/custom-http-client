@@ -1,5 +1,5 @@
 # custom-http-client
 
-[v] GET, POST
-[v] Timeout
-[v] Interceptors
+- [x] GET, POST
+- [x] Timeout
+- [x] Interceptors
